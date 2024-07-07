@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @over0reply
+- 👀 I’m interested in C#
